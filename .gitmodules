@@ -1,0 +1,3 @@
+[submodule "k8s"]
+	path = k8s
+	url = https://github.com/jihad0822/k8s.git
