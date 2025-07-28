@@ -1,0 +1,11 @@
+.venv/
+k8s/
+__pycache__/
+*.pyc
+*.env
+*.secret
+.DS_Store
+git-repo-secret.yaml
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
